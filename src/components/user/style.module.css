@@ -1,0 +1,10 @@
+
+.user{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: white;
+    padding: 15px;
+    margin: 10px 650px;
+}
