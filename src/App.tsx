@@ -44,7 +44,7 @@ function App() {
   // }
   
   const handleClickBigButton = useCallback(() => {
-    updateClicks((curValue) => curValue + 4321);
+    updateClicks((curValue) => curValue + 4321);gdfg
   },[updateClicks])
 
   return (
